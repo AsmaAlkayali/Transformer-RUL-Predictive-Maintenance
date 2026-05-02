@@ -50,4 +50,5 @@ NASA C-MAPSS Turbofan Engine Dataset (FD001):
 
 ---
 
-## Repository Structure
+## Author
+Asma Alkayali  | Alkayaliasma@gmail.com  | https://www.linkedin.com/in/asma-alkayali-93b44b30b/?skipRedirect=true
